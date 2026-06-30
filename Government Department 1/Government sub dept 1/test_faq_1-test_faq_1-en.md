@@ -8,3 +8,7 @@ Yes
 
 No
 
+## Q3: Is foo working?
+
+Yes
+
