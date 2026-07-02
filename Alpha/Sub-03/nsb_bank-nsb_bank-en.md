@@ -9,7 +9,7 @@ Colombo 3, Sri Lanka.
 
 ## Q2: what is the time customer complain unit is open in NSB bank
 
-on working days 08.30am to 3.00pm
+on working days 03.00am to 3.00pm
 
 ## Q3: what is mission and vision of NSB bank
 
