@@ -33,8 +33,8 @@ Galle
 
 ## Page 2
 
-Tel : +94 91 2224443​
-Fax : +94 91 2224443​
+Tel : +94 079109966
+Fax : +94 072297447
 Email : mithsevana@nddcb.gov.lk 
  
 Kandy 
