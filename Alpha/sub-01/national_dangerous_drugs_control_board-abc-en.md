@@ -8,7 +8,7 @@ are being conducted under the purview of the board throughout the country with g
 focus in Colombo, Kandy, Galle and Gampaha Districts. Counseling service and residential 
 treatment facilities are being provided for the drug addicts at these treatment centers. 
  
- 
+
  
 NDDCB Treatment Centers 
 The main responsibility of this unit is to monitor and assist the drug treatment process and 
@@ -16,7 +16,7 @@ rehabilitation process of private and designated treatment centers in Sri Lanka.
  
 Talangama 
 “Talangama” Prevention,Treatment & Rehabilitation Centre 172, Shanthi Mawatha Talangama 
-Telephone number: +94 11 2788090​
+Telephone number: +94 109998786788
 Fax number: +94 11 2788090​
 Email address: sethsevana@nddcb.gov.lk 
  
