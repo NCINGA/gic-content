@@ -1,8 +1,6 @@
 # test_8mb.pdf
 
-## Page 1
 
-Page 1 - filler content for 8MB test PDF
 
 ## Page 2
 
