@@ -293,4 +293,4 @@ Registration of Photo Studios...
 - 1962 / +94 112 101 500
 - +94 011 2885 358
 - controller@Immigration.gov.lk
-  /.col-md-3   69280668 /#bottom /#footer
+  /.col-md-3   70348427 /#bottom /#footer
