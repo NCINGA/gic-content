@@ -1,22 +1,48 @@
 $$$$$
 
-# Som interesting stats
+---
+title: [insert title]
+document_id: [insert document_id]
+document_type: guide
+version: 1.0
+category: [insert category]
+subcategory: [insert subcategory]
+status: draft
+department: [insert department name]
+division: [insert division name]
+authority: [insert authority]
+language: english
+available_translations: [english]
+published_date: [insert YYYY-MM-DD]
+last_updated: [insert YYYY-MM-DD]
+next_review: [insert YYYY-MM-DD]
+applicable_laws: [insert applicable laws]
+geographic_scope: national
+contact_division: [insert contact division]
+contact_phone: [insert +country code and phone number]
+contact_email: [insert official email address]
+---
+# Som interesting stamts
 
 /$$$
 
-# 46% Of all searches on Google are local
+# Forty-six percent of all searches on Google are local
 
 /$/$$$
 
-# 80% Increase brand awareness with search ads
+# Eighty percent increase brand awareness with search ads
 
 /$/$$$
 
-# 41% Increase of video marketing since 2016
+# Forty-one percent increase of video marketing since 2016
 
 /$/$$
 
 # We make marketing fun and easy.
+### Important Information
+- Deadlines: [insert deadline]
+- Costs: [insert cost or state if free]
+- Location: [insert office address or online portal link]
 
 /$$[Knapp](https://www.hellow.se/services)/$$ /$$$$xml version="1.0" encoding="UTF-8"?  /$$ /$/$$
 
@@ -24,7 +50,7 @@ $$$$$
 
 /$$
 
-# Use CRM data to categorize customers based on behavior, preferences, and demographics, giving you a deeper understanding of your audience. By segmenting customers into distinct groups, you can craft highly personalized marketing campaigns tailored to each group’s unique characteristics and needs. Whether it’s sending targeted offers, personalized emails, or creating custom content, this approach ensures that your messaging resonates more effectively.
+# Use CRM data to categorize customers based on behavior, preferences, and demographics. CRM stands for Customer Relationship Management, which is a tool used to manage your company's interactions with current and potential customers. This gives you a deeper understanding of your audience. By segmenting customers into distinct groups, you can craft highly personalized marketing campaigns tailored to each group’s unique characteristics and needs. Whether it’s sending targeted offers, personalized emails, or creating custom content, this approach ensures that your messaging resonates more effectively.
 
 /$/$$$$xml version="1.0" encoding="UTF-8"?  /$$ /$/$$
 
@@ -210,5 +236,12 @@ Drive digital experiences by organizing your content across channels. An omni-ch
 /$$
 
 # Contact us for more information about the DM course
+### Additional Help
+For further assistance, please contact us:
+- Phone: [insert phone number]
+- Hours: [insert hours]
+- Languages: [insert languages]
+- Cost: [insert cost of contact]
+- Expected response time: [insert response time]
 
 /$$$ /$$ /$$ /$/$$$ /$$ /$$ /$/$$$ /$$ /$$ /$/$/$/$/$servicesAll serviceskontakt/$/$
