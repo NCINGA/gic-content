@@ -107,6 +107,7 @@ With effect from 10th  August 2015, applicants applying for passports are requir
 ### Latest News
 
 
+- | Scheduled Maintenance Notice... | | --- | | 27 07 2026 - 16:00 PM | | | | ⚠️ Scheduled Maintenance Notice The online payment facility for the ETA system will be temporarily unavailable due to scheduled maintenance from 2:00 a.m. to 3:00 a.m. (Sri Lanka Time) on 28th July 2026. The.... |
 - | INVITATION FOR ... | | --- | | 16 06 2026 - 15:45 PM | | | | INVITATION FOR BIDS Procurement of Supply, Delivery, Installation, Integration, Data Migration Commissioning and Maintenance of 04 Nos of Database Servers, 02 Nos of Storages, 02 No’s of Tape Library and 02 Nos of Racks for.... |
 - | Free Tourist Visas for... | | --- | | 24 05 2026 - 18:40 PM | | | | view.... |
 - | Media Notice... | | --- | | 04 03 2026 - 12:10 PM | | | | Media Notice – Department of Immigration & Emigration Date : 01/03/2026 Due to the cancellation of Middle –East bound flights effective from 28 February 2026, Passengers who are unable to depart Sri Lanka within the.... |
@@ -116,7 +117,6 @@ With effect from 10th  August 2015, applicants applying for passports are requir
 - | Registration of... | | --- | | 12 11 2025 - 14:50 PM | | | | Ministry of Public Security and Parliamentary Affairs Registration of suppliers/contractors for the year 2026 Advertisement - DOWNLOAD Main Application - DOWNLOAD Application of Foreign Supplier - DOWNLOAD Leaflet .... |
 - | Procurement of Security... | | --- | | 06 11 2025 - 11:10 AM | | | | Description of the Goods/Works/Services for which bids/proposals were invited: Procurement of Security Services for Department of Immigration and Emigration Total Number of bids/proposals received – 13 The Name of.... |
 - | IMPORTANT NOTICE... | | --- | | 30 10 2025 - 12:30 PM | | | | The announcement issued on 13 October 2025, which declared that obtaining an Electronic Travel Authorization (ETA) would be mandatory for all short-stay visitors (tourism and business) to Sri Lanka with effect from 15 October 2025, is hereby revoked.... |
-- | Vacancies... | | --- | | 17 10 2025 - 10:30 AM | | | | Recruitment of Officers for the posts of Assistant Controller (Departmental) of the Department of Immigration and Emigration - 2025 View.... |
 
 
 
@@ -293,4 +293,4 @@ Registration of Photo Studios...
 - 1962 / +94 112 101 500
 - +94 011 2885 358
 - controller@Immigration.gov.lk
-  /.col-md-3   69280668 /#bottom /#footer
+  /.col-md-3   72374011 /#bottom /#footer
