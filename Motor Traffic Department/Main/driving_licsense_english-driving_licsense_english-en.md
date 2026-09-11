@@ -24,3 +24,7 @@ A: You must demonstrate that you can safely control the vehicle and follow traff
 
 A: No. A learner should follow the conditions of the learner’s permit and be accompanied/supervised as required by Sri Lankan regulations. A learner’s permit is not the same as a full driving licence.
 
+## Q6: Q: Does this revision show an updated pipeline?
+
+A: We dont know yet
+
