@@ -1,6 +1,0 @@
-# Test FAQ Flow 01
-
-## Q1: What are the steps a citizen should follow when applying for a government service through the online portal, and what should they do if they are unable to complete the application because some of the required information or supporting documents are missing?
-
-A citizen should first log in to the online portal using their registered account and select the relevant service from the available list of services. Before starting the application, they should carefully read the eligibility requirements, required documents, processing time, and any applicable fees. The applicant should then provide accurate personal information and upload clear copies of all required supporting documents in the specified formats. After entering all the necessary information, the applicant should review the application carefully to make sure that there are no incorrect or missing details before submitting it. If some information or documents are not available, the applicant should not submit incomplete or inaccurate information. Instead, they should save the application as a draft, obtain the required information or documents, and return to the portal later to complete and submit the application. Once the application is successfully submitted, the applicant should ke
-
